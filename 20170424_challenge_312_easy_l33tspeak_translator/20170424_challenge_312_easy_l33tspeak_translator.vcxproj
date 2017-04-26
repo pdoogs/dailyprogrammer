@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{88AFAA7D-6BCC-4FAF-A839-3B6984544B45}</ProjectGuid>
+    <ProjectGuid>{564D354F-D253-431E-934E-97B202B0E6CA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>dailyprogrammer</RootNamespace>
+    <RootNamespace>My20170424_challenge_312_easy_l33tspeak_translator</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
