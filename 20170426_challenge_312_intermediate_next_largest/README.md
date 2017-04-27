@@ -1,7 +1,9 @@
 Given an integer, find the next largest integer using ONLY the digits from the given integer.
+
 Input Description
 
 An integer, one per line.
+
 Output Description
 
 The next largest integer possible using the digits available.
