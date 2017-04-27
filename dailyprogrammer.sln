@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20170424_challenge_312_easy_l33tspeak_translator", "20170424_challenge_312_easy_l33tspeak_translator\20170424_challenge_312_easy_l33tspeak_translator.vcxproj", "{564D354F-D253-431E-934E-97B202B0E6CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20170426_challenge_312_intermediate_next_largest", "20170426_challenge_312_intermediate_next_largest\20170426_challenge_312_intermediate_next_largest.vcxproj", "{C690C844-5D8E-4B77-897F-A5D84EC31691}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{564D354F-D253-431E-934E-97B202B0E6CA}.Release|x64.Build.0 = Release|x64
 		{564D354F-D253-431E-934E-97B202B0E6CA}.Release|x86.ActiveCfg = Release|Win32
 		{564D354F-D253-431E-934E-97B202B0E6CA}.Release|x86.Build.0 = Release|Win32
+		{C690C844-5D8E-4B77-897F-A5D84EC31691}.Debug|x64.ActiveCfg = Debug|x64
+		{C690C844-5D8E-4B77-897F-A5D84EC31691}.Debug|x64.Build.0 = Debug|x64
+		{C690C844-5D8E-4B77-897F-A5D84EC31691}.Debug|x86.ActiveCfg = Debug|Win32
+		{C690C844-5D8E-4B77-897F-A5D84EC31691}.Debug|x86.Build.0 = Debug|Win32
+		{C690C844-5D8E-4B77-897F-A5D84EC31691}.Release|x64.ActiveCfg = Release|x64
+		{C690C844-5D8E-4B77-897F-A5D84EC31691}.Release|x64.Build.0 = Release|x64
+		{C690C844-5D8E-4B77-897F-A5D84EC31691}.Release|x86.ActiveCfg = Release|Win32
+		{C690C844-5D8E-4B77-897F-A5D84EC31691}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
