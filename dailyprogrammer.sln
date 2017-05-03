@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20170428_challenge_312_hard
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20170501_challenge_313_easy_subset_sum", "20170501_challenge_313_easy_subset_sum\20170501_challenge_313_easy_subset_sum.vcxproj", "{187CDAFF-84D2-4BCD-93A5-F4ED978BCD3E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20170503_challenge_313_intermediate_pgm_image", "20170503_challenge_313_intermediate_pgm_image\20170503_challenge_313_intermediate_pgm_image.vcxproj", "{2A8741E4-B9D7-4661-B2EA-4694BFF0DA2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{187CDAFF-84D2-4BCD-93A5-F4ED978BCD3E}.Release|x64.Build.0 = Release|x64
 		{187CDAFF-84D2-4BCD-93A5-F4ED978BCD3E}.Release|x86.ActiveCfg = Release|Win32
 		{187CDAFF-84D2-4BCD-93A5-F4ED978BCD3E}.Release|x86.Build.0 = Release|Win32
+		{2A8741E4-B9D7-4661-B2EA-4694BFF0DA2F}.Debug|x64.ActiveCfg = Debug|x64
+		{2A8741E4-B9D7-4661-B2EA-4694BFF0DA2F}.Debug|x64.Build.0 = Debug|x64
+		{2A8741E4-B9D7-4661-B2EA-4694BFF0DA2F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A8741E4-B9D7-4661-B2EA-4694BFF0DA2F}.Debug|x86.Build.0 = Debug|Win32
+		{2A8741E4-B9D7-4661-B2EA-4694BFF0DA2F}.Release|x64.ActiveCfg = Release|x64
+		{2A8741E4-B9D7-4661-B2EA-4694BFF0DA2F}.Release|x64.Build.0 = Release|x64
+		{2A8741E4-B9D7-4661-B2EA-4694BFF0DA2F}.Release|x86.ActiveCfg = Release|Win32
+		{2A8741E4-B9D7-4661-B2EA-4694BFF0DA2F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
